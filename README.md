@@ -15,5 +15,6 @@ I build free, fast, browser-based tools — everything runs client-side, no sign
 | [myonlinestories.top](https://myonlinestories.top/) | Interactive choose-your-own-adventure stories |
 | [venthub.top](https://venthub.top/) | Stress-relief mini tools |
 | [ventnow.top](https://ventnow.top/) | Quick emotional-release toys |
+| [ceshousu.com](https://ceshousu.com/) | Idle & life-sim browser games in Chinese/English (Progress Knight, Life Restart, A Dark Room…) with guides and cloud saves |
 
 All static, all free, all open in your browser.
